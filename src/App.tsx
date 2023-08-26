@@ -1,8 +1,8 @@
-import Square from "./component/square"
+import Board from "./component/square";
 
 const App: React.FC = () => (
   <>
-  <Square/>
+  <Board/>
   </>
 );
 
